@@ -1,0 +1,22 @@
+id: A42154EE0
+title: Toh_544-Siddhaikavira-v1
+type: translation
+pechas:
+- IF8624E7C
+- I44BA3266
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-04-10T04:55:38.201Z'
+  creationid: celso
+  eft-text-id: UT22084-089-001
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_544-Siddhaikavira-v1
+alignment_to_base:
+  IF8624E7C/61A7: DAE7
+  I44BA3266/5757: DAE7
